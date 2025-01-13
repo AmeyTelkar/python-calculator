@@ -80,5 +80,5 @@ Button(root, text="=", width=5, height=3, font=("arial", 30, "bold"), bd=1, fg="
 root.mainloop()
 
  
-![cal](https://github.com/user-attachments/assets/e8888351-4fd7-4d1c-a86e-46fa5bd2b70c)
+
 
