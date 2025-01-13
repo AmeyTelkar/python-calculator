@@ -28,9 +28,6 @@ def clear():
     label_result.config(text=equation)  # Update the display label
 
 
-
-![cal](https://github.com/user-attachments/assets/e8888351-4fd7-4d1c-a86e-46fa5bd2b70c)
-
 def delete():
     """Delete the last character from the equation."""
     global equation
@@ -82,4 +79,6 @@ Button(root, text="=", width=5, height=3, font=("arial", 30, "bold"), bd=1, fg="
 # Run the application
 root.mainloop()
 
-   
+ 
+![cal](https://github.com/user-attachments/assets/e8888351-4fd7-4d1c-a86e-46fa5bd2b70c)
+
